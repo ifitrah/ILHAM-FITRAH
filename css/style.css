@@ -1,0 +1,29 @@
+body
+    {
+        background-color: thistle;
+    }
+a:link
+    {
+        color: lightsalmon;
+        background-color: palevioletred;
+        text-decoration: none;
+        padding: 15px;
+    }
+a:hover
+    {
+        color: lightgray;
+        background-color:coral;
+        text-decoration: underline;
+    }
+p
+    {
+        color: black;
+        font-size: 14pt;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 10px;
+        border: 4px solid salmon;
+    }
+h1
+    {
+        color: lightsalmon;
+    }
